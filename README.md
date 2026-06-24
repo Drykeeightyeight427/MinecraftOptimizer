@@ -1,5 +1,7 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/f963afc5-4cc0-470b-b280-6561793cb240" />
+
+
 # MinecraftOptimizer 🚀
-![Uploading image.png…]()
 
 [![Stars](https://img.shields.io/github/stars/BiforCheatsExecute/MinecraftOptimizer)](https://github.com/BiforCheatsExecute/MinecraftOptimizer)
 [![Downloads](https://img.shields.io/github/downloads/BiforCheatsExecute/MinecraftOptimizer/total)](https://github.com/BiforCheatsExecute/MinecraftOptimizer/releases)

